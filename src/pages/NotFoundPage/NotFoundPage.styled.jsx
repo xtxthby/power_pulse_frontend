@@ -18,7 +18,7 @@ export const Title = styled.h2`
     margin-bottom: 28px;
     font-size: 160px;
     line-height: 0.93;
-    
+    letter-spacing: 1.6px;
   }
 `;
 
